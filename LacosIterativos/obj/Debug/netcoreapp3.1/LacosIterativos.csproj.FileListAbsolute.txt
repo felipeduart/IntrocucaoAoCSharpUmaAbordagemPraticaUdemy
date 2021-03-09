@@ -1,0 +1,13 @@
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\LacosIterativos\bin\Debug\netcoreapp3.1\LacosIterativos.exe
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\LacosIterativos\bin\Debug\netcoreapp3.1\LacosIterativos.deps.json
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\LacosIterativos\bin\Debug\netcoreapp3.1\LacosIterativos.runtimeconfig.json
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\LacosIterativos\bin\Debug\netcoreapp3.1\LacosIterativos.runtimeconfig.dev.json
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\LacosIterativos\bin\Debug\netcoreapp3.1\LacosIterativos.dll
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\LacosIterativos\bin\Debug\netcoreapp3.1\LacosIterativos.pdb
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\LacosIterativos\obj\Debug\netcoreapp3.1\LacosIterativos.csprojAssemblyReference.cache
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\LacosIterativos\obj\Debug\netcoreapp3.1\LacosIterativos.AssemblyInfoInputs.cache
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\LacosIterativos\obj\Debug\netcoreapp3.1\LacosIterativos.AssemblyInfo.cs
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\LacosIterativos\obj\Debug\netcoreapp3.1\LacosIterativos.csproj.CoreCompileInputs.cache
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\LacosIterativos\obj\Debug\netcoreapp3.1\LacosIterativos.dll
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\LacosIterativos\obj\Debug\netcoreapp3.1\LacosIterativos.pdb
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\LacosIterativos\obj\Debug\netcoreapp3.1\LacosIterativos.genruntimeconfig.cache

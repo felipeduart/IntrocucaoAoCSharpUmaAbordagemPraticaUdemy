@@ -1,0 +1,50 @@
+o mundo das classes parte 1 
+
+classe descreve atributos e comportamentos
+	atributos sao qualidades 
+	comportamentos sao maneiras de fazer algo
+	ex
+	classe de animais felinos 
+		comportamentos: habitos noturnos, gosta de subir em arvores 
+		atributos: mto pelo, carnivoro 
+
+
+--- comportamentos = metodos
+	a representação concreta de uma classe é chamada de OBJETO. comumente o OBJETO é definido como "INSTANCIA DE UMA CLASSE" 
+
+	ex
+	public class Pessoa
+	{
+		public int Idade; atributo idade
+		public string Nome; atributo nome
+	}
+
+ --- na transparencia anterior vemos o modificador 'public', o qual permite a total visibilidade sob o seu alvo
+
+usamos modificadores para expor ou nao detalhes de uma implementação 
+	--- esconder detalhes de implementação = encapisulamento
+ 	sao os MODIFICADORES: PUBLIC; PROTECTED; PRIVATE; INTERNAL
+	PUBLIC: o tipo de membro pode ser acessado por qualquer outro codigo no mesmo ASSEMBLY* ou em outro assemble que faz referencia a ele.
+	PROTECTED: o tipo ou membro pode ser aessado somente pelo codigo na mesma classe ou classes filhas**.
+	PRIVATE: o tipo ou membro pode ser acessado semnte pelo codigo na mesma classe.
+	INTERNAL: o tipo ou membro pode ser acessado por qualquer codigo no mesmo assembly, mas não de outro assembly.
+		* ASSEMBLY aqui pode ser entendido como programa, executavel.
+
+
+	CRIANDO UM OBJETO 
+		a criação de um objeto de classe se da atravez do operador NEW
+		ex 
+		   Pessoa pessoa = NEW Pessoa();
+		     |	    |       |     |
+		tipo		operador   metodo 
+				   new     construtor
+			nome da 
+			variavel	
+
+METODOS = FUNÇÕES 
+metodos podem ou nao ter argumentos 
+	argumentos: dado recibido e acessivel dentro do corpo do metodo
+metodos podem ou nao retornar um valor ou referencia para um objeto 
+
+
+17 min de video dps disso so falação

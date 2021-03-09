@@ -1,0 +1,10 @@
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\CalculadoraConsole\bin\Debug\CalculadoraConsole.exe.config
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\CalculadoraConsole\bin\Debug\CalculadoraConsole.exe
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\CalculadoraConsole\bin\Debug\CalculadoraConsole.pdb
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\CalculadoraConsole\bin\Debug\ModuloCalculadora.dll
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\CalculadoraConsole\bin\Debug\ModuloCalculadora.pdb
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\CalculadoraConsole\obj\Debug\CalculadoraConsole.csprojAssemblyReference.cache
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\CalculadoraConsole\obj\Debug\CalculadoraConsole.csproj.CoreCompileInputs.cache
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\CalculadoraConsole\obj\Debug\CalculadoraConsole.csproj.CopyComplete
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\CalculadoraConsole\obj\Debug\CalculadoraConsole.exe
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\CalculadoraConsole\obj\Debug\CalculadoraConsole.pdb

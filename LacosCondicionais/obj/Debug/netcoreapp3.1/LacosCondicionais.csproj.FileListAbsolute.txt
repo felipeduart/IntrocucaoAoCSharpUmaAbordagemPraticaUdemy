@@ -1,0 +1,13 @@
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\LacosCondicionais\obj\Debug\netcoreapp3.1\LacosCondicionais.csprojAssemblyReference.cache
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\LacosCondicionais\obj\Debug\netcoreapp3.1\LacosCondicionais.AssemblyInfoInputs.cache
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\LacosCondicionais\obj\Debug\netcoreapp3.1\LacosCondicionais.AssemblyInfo.cs
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\LacosCondicionais\obj\Debug\netcoreapp3.1\LacosCondicionais.csproj.CoreCompileInputs.cache
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\LacosCondicionais\bin\Debug\netcoreapp3.1\LacosCondicionais.exe
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\LacosCondicionais\bin\Debug\netcoreapp3.1\LacosCondicionais.deps.json
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\LacosCondicionais\bin\Debug\netcoreapp3.1\LacosCondicionais.runtimeconfig.json
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\LacosCondicionais\bin\Debug\netcoreapp3.1\LacosCondicionais.runtimeconfig.dev.json
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\LacosCondicionais\bin\Debug\netcoreapp3.1\LacosCondicionais.dll
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\LacosCondicionais\bin\Debug\netcoreapp3.1\LacosCondicionais.pdb
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\LacosCondicionais\obj\Debug\netcoreapp3.1\LacosCondicionais.dll
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\LacosCondicionais\obj\Debug\netcoreapp3.1\LacosCondicionais.pdb
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\LacosCondicionais\obj\Debug\netcoreapp3.1\LacosCondicionais.genruntimeconfig.cache

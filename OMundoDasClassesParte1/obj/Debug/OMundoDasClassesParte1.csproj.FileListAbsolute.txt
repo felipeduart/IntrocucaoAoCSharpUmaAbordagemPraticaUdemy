@@ -1,0 +1,7 @@
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\OMundoDasClassesParte1\bin\Debug\OMundoDasClassesParte1.exe.config
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\OMundoDasClassesParte1\bin\Debug\OMundoDasClassesParte1.exe
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\OMundoDasClassesParte1\bin\Debug\OMundoDasClassesParte1.pdb
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\OMundoDasClassesParte1\obj\Debug\OMundoDasClassesParte1.csprojAssemblyReference.cache
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\OMundoDasClassesParte1\obj\Debug\OMundoDasClassesParte1.csproj.CoreCompileInputs.cache
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\OMundoDasClassesParte1\obj\Debug\OMundoDasClassesParte1.exe
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\OMundoDasClassesParte1\obj\Debug\OMundoDasClassesParte1.pdb

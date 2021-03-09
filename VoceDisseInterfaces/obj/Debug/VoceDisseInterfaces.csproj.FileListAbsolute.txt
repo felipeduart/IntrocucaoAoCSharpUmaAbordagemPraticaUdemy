@@ -1,0 +1,7 @@
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\VoceDisseInterfaces\bin\Debug\VoceDisseInterfaces.exe.config
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\VoceDisseInterfaces\bin\Debug\VoceDisseInterfaces.exe
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\VoceDisseInterfaces\bin\Debug\VoceDisseInterfaces.pdb
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\VoceDisseInterfaces\obj\Debug\VoceDisseInterfaces.csprojAssemblyReference.cache
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\VoceDisseInterfaces\obj\Debug\VoceDisseInterfaces.csproj.CoreCompileInputs.cache
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\VoceDisseInterfaces\obj\Debug\VoceDisseInterfaces.exe
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\VoceDisseInterfaces\obj\Debug\VoceDisseInterfaces.pdb

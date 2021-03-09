@@ -1,0 +1,66 @@
+using Coding.Exercise;
+using NUnit.Framework;
+using System.Linq;
+using System;
+using System.Reflection;
+
+namespace Coding.Exercise.UnitTests
+{
+    [TestFixture]
+    public class Testes
+    {
+        [Test]
+        public void TestaSeEscaneadoraEhIEscaneadora()
+        {
+            // Testar se implementa interface IEscaneadora
+            var e = new Escaneadora();
+            Assert.IsTrue(typeof(IEscaneadora).GetTypeInfo().IsAssignableFrom(e.GetType()), "Ops! Parece que sua escaneadora não é uma IEscaneadora...");
+        }
+        
+        [Test]
+        public void TestaSeEscaneadoraEscaneiaCorretamente()
+        {
+            var e = new Escaneadora();
+            var textoAEscanear = "The book is on the table";
+            var textoEscaneado = e.Escanear(textoAEscanear);
+            
+            Assert.IsTrue(textoAEscanear == textoEscaneado, "Ops! Parece que a sua escaneadora não está escaneando corretamente...");
+        }
+        
+        [Test]
+        public void TestaSeMutifuncionalEhMultifuncionalMesmo()
+        {
+            var mf = new Multifuncional();
+            // Testar se implementa interface IEscaneadora
+            Assert.IsTrue(typeof(IEscaneadora).GetTypeInfo().IsAssignableFrom(mf.GetType()), "Ops! Parece que sua multifuncional não é uma IEscaneadora...");
+            // Testar se implementa interface ICopiadora
+            Assert.IsTrue(typeof(ICopiadora).GetTypeInfo().IsAssignableFrom(mf.GetType()), "Ops! Parece que sua multifuncional não é uma ICopiadora...");
+            // Testar se implementa interface IImpressora
+            Assert.IsTrue(typeof(IImpressora).GetTypeInfo().IsAssignableFrom(mf.GetType()), "Ops! Parece que sua multifuncional não é uma IImpressora...");
+        }
+        
+        [Test]
+        public void TestaSeMultifuncionalImprimeCorretamente()
+        {
+            var mf = new Multifuncional();
+            var textoAImprimir = "Impressao OK..";
+            Assert.IsTrue(mf.Imprimir(textoAImprimir).Equals(textoAImprimir, StringComparison.CurrentCulture), "Ops! Parece que a sua multifuncional não está imprimindo corretamente...");
+        }
+        
+        [Test]
+        public void TestaSeMultifuncionalCopiaCorretamente()
+        {
+            var mf = new Multifuncional();
+            var textoACopiar = "Copia OK..";
+            Assert.IsTrue(mf.Copiar(textoACopiar).Equals(textoACopiar, StringComparison.CurrentCulture), "Ops! Parece que a sua multifuncional não está copiando corretamente...");
+        }
+        
+        [Test]
+        public void TestaSeMultifuncionalEscaneiaCorretamente()
+        {
+            var mf = new Multifuncional();
+            var textoAEscanear = "Escaneamento  OK..";
+            Assert.IsTrue(mf.Escanear(textoAEscanear).Equals(textoAEscanear, StringComparison.CurrentCulture), "Ops! Parece que a sua multifuncional não está escaneando corretamente...");
+        }
+    }
+}

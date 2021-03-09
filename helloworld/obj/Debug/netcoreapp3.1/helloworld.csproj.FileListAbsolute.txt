@@ -1,0 +1,13 @@
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\helloworld\bin\Debug\netcoreapp3.1\helloworld.exe
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\helloworld\bin\Debug\netcoreapp3.1\helloworld.deps.json
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\helloworld\bin\Debug\netcoreapp3.1\helloworld.runtimeconfig.json
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\helloworld\bin\Debug\netcoreapp3.1\helloworld.runtimeconfig.dev.json
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\helloworld\bin\Debug\netcoreapp3.1\helloworld.dll
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\helloworld\bin\Debug\netcoreapp3.1\helloworld.pdb
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\helloworld\obj\Debug\netcoreapp3.1\helloworld.csprojAssemblyReference.cache
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\helloworld\obj\Debug\netcoreapp3.1\helloworld.AssemblyInfoInputs.cache
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\helloworld\obj\Debug\netcoreapp3.1\helloworld.AssemblyInfo.cs
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\helloworld\obj\Debug\netcoreapp3.1\helloworld.csproj.CoreCompileInputs.cache
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\helloworld\obj\Debug\netcoreapp3.1\helloworld.dll
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\helloworld\obj\Debug\netcoreapp3.1\helloworld.pdb
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\helloworld\obj\Debug\netcoreapp3.1\helloworld.genruntimeconfig.cache

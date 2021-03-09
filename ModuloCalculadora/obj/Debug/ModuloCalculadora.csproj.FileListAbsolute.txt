@@ -1,0 +1,6 @@
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\ModuloCalculadora\bin\Debug\ModuloCalculadora.dll
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\ModuloCalculadora\bin\Debug\ModuloCalculadora.pdb
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\ModuloCalculadora\obj\Debug\ModuloCalculadora.csprojAssemblyReference.cache
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\ModuloCalculadora\obj\Debug\ModuloCalculadora.csproj.CoreCompileInputs.cache
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\ModuloCalculadora\obj\Debug\ModuloCalculadora.dll
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\ModuloCalculadora\obj\Debug\ModuloCalculadora.pdb

@@ -1,0 +1,10 @@
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\SimpleTOPark\bin\Debug\SimpleTOPark.exe.config
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\SimpleTOPark\bin\Debug\SimpleTOPark.exe
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\SimpleTOPark\bin\Debug\SimpleTOPark.pdb
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\SimpleTOPark\obj\Debug\SimpleTOPark.csprojAssemblyReference.cache
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\SimpleTOPark\obj\Debug\SimpleTOPark.Properties.Resources.resources
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\SimpleTOPark\obj\Debug\SimpleTOPark.csproj.GenerateResource.cache
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\SimpleTOPark\obj\Debug\SimpleTOPark.csproj.CoreCompileInputs.cache
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\SimpleTOPark\obj\Debug\SimpleTOPark.exe
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\SimpleTOPark\obj\Debug\SimpleTOPark.pdb
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\SimpleTOPark\obj\Debug\SimpleTOPark.FormPrincipal.resources

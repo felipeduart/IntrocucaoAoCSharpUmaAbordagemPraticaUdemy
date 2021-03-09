@@ -1,0 +1,13 @@
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\bin\Debug\netcoreapp3.1\TiposEVariaveis.exe
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\bin\Debug\netcoreapp3.1\TiposEVariaveis.deps.json
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\bin\Debug\netcoreapp3.1\TiposEVariaveis.runtimeconfig.json
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\bin\Debug\netcoreapp3.1\TiposEVariaveis.runtimeconfig.dev.json
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\bin\Debug\netcoreapp3.1\TiposEVariaveis.dll
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\bin\Debug\netcoreapp3.1\TiposEVariaveis.pdb
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\obj\Debug\netcoreapp3.1\TiposEVariaveis.csprojAssemblyReference.cache
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\obj\Debug\netcoreapp3.1\TiposEVariaveis.AssemblyInfoInputs.cache
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\obj\Debug\netcoreapp3.1\TiposEVariaveis.AssemblyInfo.cs
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\obj\Debug\netcoreapp3.1\TiposEVariaveis.csproj.CoreCompileInputs.cache
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\obj\Debug\netcoreapp3.1\TiposEVariaveis.dll
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\obj\Debug\netcoreapp3.1\TiposEVariaveis.pdb
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\obj\Debug\netcoreapp3.1\TiposEVariaveis.genruntimeconfig.cache

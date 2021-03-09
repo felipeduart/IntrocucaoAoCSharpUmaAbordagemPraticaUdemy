@@ -1,0 +1,27 @@
+tipos e variaveis 
+
+tipos basicos de variaveis .net 
+
+as variaveis amrmazenam/referenciam dados temporarios e persistentes 
+	- temporarios se excluem qnd a aplicação fecha 
+	- persistentes o contrario dos temporaríos 
+
+		possiveis tipos de dados: letras, conjunto de letras, numeros 
+
+
+classificação 
+		tipos de valor = armazenam os dados diretamaneto nela 
+		ex: INT numero = 10;
+ --- INT = tipo(variavel) 
+ --- numero = nome** 
+** nome nao pode começar com numero;
+** nome nao pode ter acentos, cedilha, etc.
+
+ --- = = operador 
+ --- 10 = valor 
+ --- ; termina quarquer linha (se nao colocar vai dar erro)
+	genericamente se faz [tipo] [nome] [operador] [valor];
+		tipos de referência = apontam(referenciam) para um local na memoria onde os dados então armazenados 
+
+se eu tiver uma VARIAVEL1 apontando pra um local da memoria e copiar essa VARIAVEL1 para uma variavel chamada VARIAVEL2 modificando a VARIAVEL1  eu vou modificar junto a VARIAVAL2**
+	** oque ocorre aqui é diferente do tipo de valor em que copiando uma variavel e modificando ela posteriormente a variavel copia nao ira mudar 

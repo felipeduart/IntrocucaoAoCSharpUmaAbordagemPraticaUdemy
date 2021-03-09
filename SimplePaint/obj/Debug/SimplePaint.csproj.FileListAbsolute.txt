@@ -1,0 +1,10 @@
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\SimplePaint\bin\Debug\SimplePaint.exe.config
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\SimplePaint\bin\Debug\SimplePaint.exe
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\SimplePaint\bin\Debug\SimplePaint.pdb
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\SimplePaint\obj\Debug\SimplePaint.Properties.Resources.resources
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\SimplePaint\obj\Debug\SimplePaint.csproj.GenerateResource.cache
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\SimplePaint\obj\Debug\SimplePaint.csproj.CoreCompileInputs.cache
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\SimplePaint\obj\Debug\SimplePaint.exe
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\SimplePaint\obj\Debug\SimplePaint.pdb
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\SimplePaint\obj\Debug\SimplePaint.FormPrincipal.resources
+D:\Felipe Duarte\Documents\udemy\IntrocucaoAoCSharpUmaAbordagemPraticaUdemy\SimplePaint\obj\Debug\SimplePaint.csprojAssemblyReference.cache
